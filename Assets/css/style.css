@@ -6,6 +6,7 @@ body {}
 /* Carousel CSS */
 .slider img {
     border-radius: 5px;
+    width: 100vw;
 }
 
 .slider {}
@@ -23,6 +24,7 @@ body {}
 
 .captions {
     position: absolute;
+    min-width: 400px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
