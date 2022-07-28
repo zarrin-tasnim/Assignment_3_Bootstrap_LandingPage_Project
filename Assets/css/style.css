@@ -34,3 +34,7 @@ body {}
 .accordion {
     max-width: 900px;
 }
+
+.companies img {
+    width: 150px;
+}
