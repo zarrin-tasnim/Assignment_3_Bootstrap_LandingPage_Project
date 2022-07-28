@@ -2,7 +2,6 @@
 
 body {}
 
-
 /* Carousel CSS */
 .slider img {
     border-radius: 5px;
@@ -30,4 +29,9 @@ body {}
     transform: translate(-50%, -50%);
     color: #ffffff;
     z-index: 20;
+}
+
+.courses img {
+    width: 150px;
+    background-position: center;
 }
