@@ -31,4 +31,6 @@ body {}
     z-index: 20;
 }
 
-.courses img {}
+.accordion {
+    max-width: 900px;
+}
