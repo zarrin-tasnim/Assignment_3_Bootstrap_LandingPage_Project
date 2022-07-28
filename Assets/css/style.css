@@ -31,7 +31,4 @@ body {}
     z-index: 20;
 }
 
-.courses img {
-    width: 150px;
-    background-position: center;
-}
+.courses img {}
