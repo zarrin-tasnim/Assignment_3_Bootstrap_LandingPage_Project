@@ -8,8 +8,6 @@ body {}
     width: 100vw;
 }
 
-.slider {}
-
 .slider::after {
     content: "";
     position: absolute;
@@ -23,7 +21,8 @@ body {}
 
 .captions {
     position: absolute;
-    min-width: 400px;
+    min-width: 300px;
+    max-width: 100%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
